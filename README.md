@@ -55,9 +55,6 @@
   <img src="svg/Lakeserl-quotes.svg" width="846" height="150" alt="Lakeserl" />
 </a>
 
-## Contributed
-![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 
 <!--
 **Lakeserl/Lakeserl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
