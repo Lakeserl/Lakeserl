@@ -24,7 +24,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-
+<br>
+  <h2 align="center">🔥 GitHub Stats 🔥</h2>
+  <div align=center>
+  <div align="center">
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lakeserl&theme=nightowl&locale=vi" alt="Lakeserl" /></p>
+</div>  
 <br>
 <h2 align="center">🔥 Where to find me 🔥</h2>
 <br>
@@ -50,8 +55,9 @@
   <img src="svg/Lakeserl-quotes.svg" width="846" height="150" alt="Lakeserl" />
 </a>
 
-## Contributed/Commited 
-![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## Contributed
+![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 <!--
 **Lakeserl/Lakeserl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
