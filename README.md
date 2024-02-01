@@ -4,6 +4,7 @@
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
+
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -23,6 +24,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+
+<br>
 <h2 align="center">🔥 Where to find me 🔥</h2>
 <br>
 <!-- https://icons8.com -->
@@ -47,6 +50,8 @@
   <img src="svg/Lakeserl-quotes.svg" width="846" height="150" alt="Lakeserl" />
 </a>
 
+## Contributed/Commited 
+![github contribution grid snake animation](https://raw.githubusercontent.com/NekoCyan/NekoCyan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **Lakeserl/Lakeserl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
