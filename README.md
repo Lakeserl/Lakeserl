@@ -1,8 +1,12 @@
 <a href="#" target="_blank">
   <img src="svg/Lakeserl.svg" width="1200" alt="Lakeserl" />
 </a>
+<span align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31stegjrymrn2rqjpmudtjb7ui5e&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+</span>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
+
 <br>
 
 <!-- https://simpleicons.org/ -->
