@@ -15,6 +15,8 @@
 
 
 <h2>Contributes</h2>
+<!-- 
+<!-- [!Lakeserl](gitartwork.svg)
 
-![Snake animation](https://raw.githubusercontent.com/{Lakeserl}/{Lakeserl}/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/<Lakeserl>/<Lakeserl>/blob/output/github-contribution-grid-snake2.svg)
 
