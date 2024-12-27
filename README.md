@@ -1,76 +1,20 @@
-<a href="#" target="_blank">
-  <img src="svg/Lakeserl.svg" width="1200" alt="Lakeserl" />
+<!-- Title -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6868FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi👋%2C+My+name+is+Lakeserl" alt="Typing SVG" /></a>
+</p>
+
+<h2>GitHub Stats</h2>
+
+<a href="#">
+<img alt="Lakeserl" src="https://github-readme-stats.vercel.app/api?username=Lakeserl&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&icon_color=b07219"/>
 </a>
-<span align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31stegjrymrn2rqjpmudtjb7ui5e&cover_image=true&theme=novatorem&bar_color=74a7fe&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-</span>
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
-
-<br>
-
-<!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Android-282C34?logo=Android&logoColor=#34A853" alt="Android logo" title="Android" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=#092E20" alt="Django logo" title="Django" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Express.js" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<br>
-  <h2 align="center">🔥 GitHub Stats 🔥</h2>
-  <div align=center>
-  <div align="center">
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lakeserl&theme=nightowl&locale=vi" alt="Lakeserl" /></p>
-</div>  
-<br>
-<h2 align="center">🔥 Where to find me 🔥</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/profile.php?id=100075990096267" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://www.linkedin.com/in/l%C3%A2m-v%C5%A9-b38711296/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/lakeserlm/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:8BloodyLake@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/Lakeserl-quotes.svg" width="846" height="150" alt="Lakeserl" />
+<a href ="#">
+<img alt="Lakeserl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakeserl&lans_count=4&layout=compact&theme=onedark&hide=Jupyter%20Notebook&border_color=011627"/>
 </a>
 
 
-<!--
-**Lakeserl/Lakeserl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Contributes</h2>
 
-Here are some ideas to get you started:
+![Snake animation](https://raw.githubusercontent.com/{Lakeserl}/{Lakeserl}/output/github-contribution-grid-snake-dark.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
