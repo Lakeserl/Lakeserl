@@ -16,8 +16,6 @@
 
 <h2>Contributes</h2>
 
-![Lakeserl](gitartwork.svg)
-
 ![snake gif](https://github.com/Lakeserl/Lakeserl/blob/output/github-snake-dark.svg)
 
 
