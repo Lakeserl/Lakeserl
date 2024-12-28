@@ -1,0 +1,24 @@
+name: gitartwork from a contribution graph
+on: 
+  push:
+  pull_request:
+  schedule:
+    - cron: '* */24 * * *'
+  workflow_dispatch:  
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jasineri/gitartwork@v1
+        with:
+           # Use this username's contribution graph  
+           user_name: Lakeserl
+           # Text on contribution graph 
+           text: Lakeserl
+      - name: Set Git User
+        run: |
+             git config user.name "Lakeserl"
+             git config user.email "dinhlam18112003@gmail.com" 
+      - uses: jasineri/simple-push-action@v1
