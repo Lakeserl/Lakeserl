@@ -18,5 +18,5 @@
 
 ![Lakeserl](gitartwork.svg)
 
-![snake animation](https://github.com/<Lakeserl>/<Lakeserl>/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/Lakeserl/Lakeserl/blob/output/github-snake-dark.svg)
 
