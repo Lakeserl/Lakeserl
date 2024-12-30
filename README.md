@@ -4,8 +4,9 @@
 </p>
 
 <h2>Sumary </h2>
-<img alt="GIF" src="https://github.com/Lakeserl/Lakserl/blob/main/assets/Developer.gif" width="25" />  &nbsp; I'm currently learning *Webdev & Java*
 
+- <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm currently learning *Webdev & Java*.
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love exploring **GNU/Linux**.
 
 
 <h2>GitHub Stats</h2>
