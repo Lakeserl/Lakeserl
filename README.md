@@ -5,21 +5,18 @@
 
 ## Summary <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-- <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm currently learning *Webdev & Java*. <img align="right" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy_herta.gif" alt="Herta" width="15%" />
-- <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/typingcat.gif" width="20" />&nbsp;&nbsp; I love exploring **GNU/Linux**.
--
+<img align="left" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy-herta.gif" alt="Herta" width="15%" />
+
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm currently l focused on building responsive web. 
+
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/hyperkitty.gif" width="22" />&nbsp;&nbsp; I love exploring **GNU/Linux**.
+
+<img />
+
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/mail.gif" width="21"/>&nbsp;&nbsp; Contract me at [Gmail](dinhlam18112003@gmail.com).
 
 
-<h2>GitHub Stats</h2>
-
-<img alt="Lakeserl" src="https://github-readme-stats.vercel.app/api?username=Lakeserl&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&icon_color=b07219"/>
-
-<!-- 
-<a href ="#">
-<img alt="Lakeserl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakeserl&lans_count=4&layout=compact&theme=onedark&hide=Jupyter%20Notebook&border_color=011627"/>
-</a> -->
-
-
+<br><br><br><br>
 
 ## Language & Tools
 <p align="left">
@@ -33,6 +30,12 @@
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 </p>
+
+<br><br>
+
+## Porfolio
+
+Updated Later... <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/herta.gif" width="40"/>
 
 <h2>Contributes</h2>
 
