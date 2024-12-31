@@ -5,7 +5,7 @@
 
 ## Summary <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align="left" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy-herta.gif" alt="Herta" width="15%" />
+<img align="left" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy-herta.gif" alt="Herta" width="20%" />
 
 <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; Hi, I'm a third-year student passionate about technology and coding.
 
