@@ -5,7 +5,7 @@
 
 ## Summary <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-- <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm currently learning *Webdev & Java*. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+- <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm currently learning *Webdev & Java*. <img align="right" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy_herta.gif" alt="Herta" width="15%" />
 - <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/typingcat.gif" width="20" />&nbsp;&nbsp; I love exploring **GNU/Linux**.
 -
 
