@@ -7,18 +7,22 @@
 
 <img align="left" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy-herta.gif" alt="Herta" width="15%" />
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; I'm currently l focused on building responsive web. 
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; Hi, I'm a third-year student passionate about technology and coding.
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/hyperkitty.gif" width="22" />&nbsp;&nbsp; I love exploring **GNU/Linux**.
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/hyperkitty.gif" width="22" />&nbsp;&nbsp; I currently learning **Web Development** and **React**.
 
-<img />
-
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/mail.gif" width="21"/>&nbsp;&nbsp; Contract me at [Gmail](dinhlam18112003@gmail.com).
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/puppy.gif" width="20"/>&nbsp; I'd like to take on opportunities, collaborate, and connect with like-minded developers
 
 
-<br><br><br><br>
 
-## Language & Tools
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/mail.gif" width="19"/>&nbsp;&nbsp; Contract me at : [Gmail](mailto:dinhlam18112003@gmail.com) | [Lindekin](https://www.linkedin.com/in/lâm-vũ-1a8672329/)
+
+
+<br><br>
+
+## Language & Tools 
+<br>
+<img align="right" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/lie-around-herta.gif" width="37%">
 <p align="left">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -35,11 +39,15 @@
 
 ## Porfolio
 
-Updated Later... <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/herta.gif" width="40"/>
+Update Later... <img align="center" width="40" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/herta.gif">
+
+<br><br>
 
 <h2>Contributes</h2>
 
 ![snake gif](https://github.com/Lakeserl/Lakeserl/blob/output/github-snake-dark.svg)
+<br><br><br><br>
 
+<h1 align="center"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓦𝓪𝓽𝓬𝓱𝓲𝓷𝓰 ~<img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"></h1>
 
 
