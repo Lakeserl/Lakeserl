@@ -11,7 +11,7 @@
 
 <img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/hyperkitty.gif" width="22" />&nbsp;&nbsp; I currently learning **Web Development** and **React**.
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/puppy.gif" width="20"/>&nbsp; I'd like to take on opportunities, collaborate, and connect with like-minded developers
+<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/puppy.gif" width="30"/>&nbsp; I'd like to take on opportunities, collaborate, and connect with like-minded developers
 
 
 
