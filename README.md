@@ -69,14 +69,22 @@
 
 ## Portfolio
 
-🌪️ Kuru Kuru Loading... 
-🌀
-→ 🌀
-→→ 🌀
-→→→ 🌀
-→→→→ 💥 <img align="center" width="40" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/herta.gif"> 
+🌪️ Kuru Kuru Loading...  <img align="center" width="40" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/herta.gif"> 
 
 
+<br><br>
+
+## 🧠 Herta's Command Center
+
+```markdown
+| Command | Effect | Cooldown |
+|--------|--------|----------|
+| /spin | Makes everything better | 0s |
+| /debug | Laughs until the bug fixes itself | 5s |
+| /nap | Enters maintenance mode | 10m |
+| /focus | Eliminates all distractions | 30s |
+| /kuru | Summons unlimited motivation | 1m |
+```
 <br><br>
 
 <h2>Contributions</h2>
@@ -105,7 +113,17 @@
 </div>
 
 </details>
+<br><br>
 
 <h1 align="center"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓦𝓪𝓽𝓬𝓱𝓲𝓷𝓰 ~<img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"></h1>
+
+<br><br><br>
+
+## 🌀 Daily Herta Quote
+
+<p align="center"><i>"Kuru kuru~ is not just a sound. It's a lifestyle."</i></p>
+
+
+
 
 
