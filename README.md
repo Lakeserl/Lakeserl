@@ -96,7 +96,7 @@
 <br><br><br>
 
 
-<details>!
+<details>
 <summary>📊 Click for More Stats About Me  </summary>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lakeserl&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
@@ -115,15 +115,16 @@
 </div>
 
 </details>
-<br><br>
-
-<h1 align="center"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓦𝓪𝓽𝓬𝓱𝓲𝓷𝓰 ~<img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"></h1>
-
 <br><br><br>
-
-## 🌀 Daily Herta Quote
+<h2 align="center">🌀 Daily Herta Quote</h2>
 
 <p align="center"><i>"Kuru kuru~ is not just a sound. It's a lifestyle."</i></p>
+
+
+<br><br>
+
+<h1 align="center"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/thehertaspin.gif"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓦𝓪𝓽𝓬𝓱𝓲𝓷𝓰 ~<img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"> <img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/thehertaspin.gif"></h1>
+
 
 
 
