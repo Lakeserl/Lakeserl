@@ -85,6 +85,8 @@
 | /focus | Eliminates all distractions | 30s |
 | /kuru | Summons unlimited motivation | 1m |
 ```
+
+
 <br><br>
 
 <h2>Contributions</h2>
