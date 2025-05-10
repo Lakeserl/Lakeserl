@@ -86,8 +86,7 @@
 | /kuru | Summons unlimited motivation | 1m |
 ```
 
-
-<br><br>
+<img width="35%" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/lie-around-herta.gif" alt="Herta"  />
 
 <h2>Contributions</h2>
 
@@ -122,21 +121,8 @@
 <br><br><br>
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
-<<<<<<< Updated upstream
 <!-- HERTA_QUOTE_START -->
 <p align="center"><i>"Lag detected — initiating kuru sequence."</i></p>
 <p align="center"><small>Quote updated: 01/01/2025</small></p>
 <!-- HERTA_QUOTE_END -->
----
-=======
-## 🌀 Daily Herta Quote
 
-<!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Kuru kuru~ is not just a sound. It's a lifestyle."</i></p>
-<!-- HERTA_QUOTE_END -->
-
-
-
->>>>>>> Stashed changes
-
-> Spin on! 🌀
