@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Lag detected — initiating kuru sequence."</i></p>
-<p align="center"><small>Quote updated: 01/01/2025</small></p>
+<p align="center"><i>"You can't stop the spin."</i></p>
+<p align="center"><small>Quote updated: 11/05/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
