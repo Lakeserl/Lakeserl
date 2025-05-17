@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"If code breaks, spin faster."</i></p>
-<p align="center"><small>Quote updated: 16/05/2025</small></p>
+<p align="center"><i>"Spinning increases success rate. Scientifically unproven."</i></p>
+<p align="center"><small>Quote updated: 17/05/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
