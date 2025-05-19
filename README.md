@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"My brain is spinning... with ideas."</i></p>
-<p align="center"><small>Quote updated: 18/05/2025</small></p>
+<p align="center"><i>"Release note: Added more spin."</i></p>
+<p align="center"><small>Quote updated: 19/05/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
