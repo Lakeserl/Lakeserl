@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"PR approved: Must've been the kuru."</i></p>
-<p align="center"><small>Quote updated: 06/06/2025</small></p>
+<p align="center"><i>"Every time I debug, Herta spins."</i></p>
+<p align="center"><small>Quote updated: 07/06/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
