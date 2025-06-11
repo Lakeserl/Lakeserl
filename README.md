@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Deadlines don't scare me. Spin mode: on."</i></p>
-<p align="center"><small>Quote updated: 10/06/2025</small></p>
+<p align="center"><i>"Code fails, I don't."</i></p>
+<p align="center"><small>Quote updated: 11/06/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
