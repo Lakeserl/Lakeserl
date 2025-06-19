@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"The more I spin, the better the build."</i></p>
-<p align="center"><small>Quote updated: 18/06/2025</small></p>
+<p align="center"><i>"Stack Overflow didn't help? Try spinning."</i></p>
+<p align="center"><small>Quote updated: 19/06/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
