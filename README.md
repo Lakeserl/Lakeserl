@@ -122,7 +122,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"I'm not lazy, I'm buffering... while spinning."</i></p>
-<p align="center"><small>Quote updated: 20/06/2025</small></p>
+<p align="center"><i>"Every time I debug, Herta spins."</i></p>
+<p align="center"><small>Quote updated: 21/06/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
