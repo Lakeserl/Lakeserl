@@ -109,8 +109,6 @@
   <h3>💻 Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakeserl&layout=compact&theme=tokyonight&hide_border=true" />
   
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Lakeserl&theme=nord&no-frame=true&margin-w=10" />
 </div>
 
 </details>
