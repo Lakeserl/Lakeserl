@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Release note: Added more spin."</i></p>
-<p align="center"><small>Quote updated: 03/07/2025</small></p>
+<p align="center"><i>"My code, like Herta, spins flawlessly."</i></p>
+<p align="center"><small>Quote updated: 04/07/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
