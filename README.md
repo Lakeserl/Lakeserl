@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Merge conflicts? Kuru them."</i></p>
-<p align="center"><small>Quote updated: 08/07/2025</small></p>
+<p align="center"><i>"My code, like Herta, spins flawlessly."</i></p>
+<p align="center"><small>Quote updated: 09/07/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
