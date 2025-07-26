@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"You say crash, I say spin faster."</i></p>
-<p align="center"><small>Quote updated: 25/07/2025</small></p>
+<p align="center"><i>"Ctrl + S + Spin."</i></p>
+<p align="center"><small>Quote updated: 26/07/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
