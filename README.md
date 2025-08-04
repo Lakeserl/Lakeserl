@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Ctrl + S + Spin."</i></p>
-<p align="center"><small>Quote updated: 03/08/2025</small></p>
+<p align="center"><i>"The more I spin, the better the build."</i></p>
+<p align="center"><small>Quote updated: 04/08/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
