@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Every loop is a kuru opportunity."</i></p>
-<p align="center"><small>Quote updated: 05/08/2025</small></p>
+<p align="center"><i>"Release note: Added more spin."</i></p>
+<p align="center"><small>Quote updated: 06/08/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
