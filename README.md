@@ -119,7 +119,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"I don't panic. I spin."</i></p>
-<p align="center"><small>Quote updated: 18/08/2025</small></p>
+<p align="center"><i>"Deadlines don't scare me. Spin mode: on."</i></p>
+<p align="center"><small>Quote updated: 19/08/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
