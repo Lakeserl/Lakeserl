@@ -125,7 +125,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Commit. Push. Spin."</i></p>
-<p align="center"><small>Quote updated: 01/09/2025</small></p>
+<p align="center"><i>"If coffee fails, spin harder."</i></p>
+<p align="center"><small>Quote updated: 02/09/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
