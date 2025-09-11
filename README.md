@@ -73,11 +73,6 @@
 
 <br><br>
 
-## Portfolio
-
-🌪️ Kuru Kuru Loading...  <img align="center" width="40" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/herta.gif"> 
-
-
 <br><br>
 
 ## 🧠 Herta's Command Center
