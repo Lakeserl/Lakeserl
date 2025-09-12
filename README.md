@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Release note: Added more spin."</i></p>
-<p align="center"><small>Quote updated: 11/09/2025</small></p>
+<p align="center"><i>"Spin-powered IDEs coming soon."</i></p>
+<p align="center"><small>Quote updated: 12/09/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
