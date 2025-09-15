@@ -120,7 +120,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"If you can't solve it, distract it with spinning."</i></p>
-<p align="center"><small>Quote updated: 14/09/2025</small></p>
+<p align="center"><i>"When in doubt, spin it out."</i></p>
+<p align="center"><small>Quote updated: 15/09/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
