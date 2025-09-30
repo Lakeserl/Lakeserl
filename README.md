@@ -117,7 +117,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"I'm not lazy, I'm buffering... while spinning."</i></p>
-<p align="center"><small>Quote updated: 29/09/2025</small></p>
+<p align="center"><i>"Kuru kuru~"</i></p>
+<p align="center"><small>Quote updated: 30/09/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
