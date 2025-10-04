@@ -117,7 +117,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"If coffee fails, spin harder."</i></p>
-<p align="center"><small>Quote updated: 03/10/2025</small></p>
+<p align="center"><i>"No spin, no win."</i></p>
+<p align="center"><small>Quote updated: 04/10/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
