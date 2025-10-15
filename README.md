@@ -117,7 +117,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"When bugs attack, I rotate back."</i></p>
-<p align="center"><small>Quote updated: 14/10/2025</small></p>
+<p align="center"><i>"Every time I debug, Herta spins."</i></p>
+<p align="center"><small>Quote updated: 15/10/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
