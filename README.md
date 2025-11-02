@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"I'm not lazy, I'm buffering... while spinning."</i></p>
-<p align="center"><small>Quote updated: 01/11/2025</small></p>
+<p align="center"><i>"Merge conflicts? Kuru them."</i></p>
+<p align="center"><small>Quote updated: 02/11/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
