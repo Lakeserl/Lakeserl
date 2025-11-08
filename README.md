@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"One spin a day keeps the bugs away."</i></p>
-<p align="center"><small>Quote updated: 07/11/2025</small></p>
+<p align="center"><i>"My code, like Herta, spins flawlessly."</i></p>
+<p align="center"><small>Quote updated: 08/11/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
