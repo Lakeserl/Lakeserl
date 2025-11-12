@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"The more I spin, the better the build."</i></p>
-<p align="center"><small>Quote updated: 11/11/2025</small></p>
+<p align="center"><i>"Kuru till I make it."</i></p>
+<p align="center"><small>Quote updated: 12/11/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
