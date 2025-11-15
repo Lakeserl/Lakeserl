@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Powered by Herta and hope."</i></p>
-<p align="center"><small>Quote updated: 14/11/2025</small></p>
+<p align="center"><i>"My code, like Herta, spins flawlessly."</i></p>
+<p align="center"><small>Quote updated: 15/11/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
