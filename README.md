@@ -114,6 +114,6 @@
 
 <!-- HERTA_QUOTE_START -->
 <p align="center"><i>"Think twice, spin once."</i></p>
-<p align="center"><small>Quote updated: 17/11/2025</small></p>
+<p align="center"><small>Quote updated: 18/11/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
