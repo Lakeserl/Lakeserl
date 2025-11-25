@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"When bugs attack, I rotate back."</i></p>
-<p align="center"><small>Quote updated: 24/11/2025</small></p>
+<p align="center"><i>"Spin-powered IDEs coming soon."</i></p>
+<p align="center"><small>Quote updated: 25/11/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
