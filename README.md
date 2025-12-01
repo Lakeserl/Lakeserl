@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"99 problems, but kuru ain't one."</i></p>
-<p align="center"><small>Quote updated: 30/11/2025</small></p>
+<p align="center"><i>"Kuru till I make it."</i></p>
+<p align="center"><small>Quote updated: 01/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
