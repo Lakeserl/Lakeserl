@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Even Git commits are more stable when spinning."</i></p>
-<p align="center"><small>Quote updated: 04/12/2025</small></p>
+<p align="center"><i>"You say crash, I say spin faster."</i></p>
+<p align="center"><small>Quote updated: 05/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
