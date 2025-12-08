@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Kuru is the new hello world."</i></p>
-<p align="center"><small>Quote updated: 07/12/2025</small></p>
+<p align="center"><i>"When in doubt, spin it out."</i></p>
+<p align="center"><small>Quote updated: 08/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
