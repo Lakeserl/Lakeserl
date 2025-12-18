@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Real devs spin while thinking."</i></p>
-<p align="center"><small>Quote updated: 17/12/2025</small></p>
+<p align="center"><i>"If you can't solve it, distract it with spinning."</i></p>
+<p align="center"><small>Quote updated: 18/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
