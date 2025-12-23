@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"If coffee fails, spin harder."</i></p>
-<p align="center"><small>Quote updated: 22/12/2025</small></p>
+<p align="center"><i>"Kuru kuru~ is not just a sound. It's a lifestyle."</i></p>
+<p align="center"><small>Quote updated: 23/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
