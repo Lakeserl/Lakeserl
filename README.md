@@ -114,6 +114,6 @@
 
 <!-- HERTA_QUOTE_START -->
 <p align="center"><i>"Productivity = Spin × Determination."</i></p>
-<p align="center"><small>Quote updated: 26/12/2025</small></p>
+<p align="center"><small>Quote updated: 27/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
