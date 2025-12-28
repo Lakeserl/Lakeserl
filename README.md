@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Productivity = Spin × Determination."</i></p>
-<p align="center"><small>Quote updated: 27/12/2025</small></p>
+<p align="center"><i>"Sleep is for the bugless."</i></p>
+<p align="center"><small>Quote updated: 28/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
