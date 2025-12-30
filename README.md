@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"You can't stop the spin."</i></p>
-<p align="center"><small>Quote updated: 29/12/2025</small></p>
+<p align="center"><i>"Kuru is the new hello world."</i></p>
+<p align="center"><small>Quote updated: 30/12/2025</small></p>
 <!-- HERTA_QUOTE_END -->
 
