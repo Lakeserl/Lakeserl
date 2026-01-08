@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Spin-powered IDEs coming soon."</i></p>
-<p align="center"><small>Quote updated: 07/01/2026</small></p>
+<p align="center"><i>"When in doubt, spin it out."</i></p>
+<p align="center"><small>Quote updated: 08/01/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
