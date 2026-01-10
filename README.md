@@ -113,7 +113,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Kuru kuru~ is not just a sound. It's a lifestyle."</i></p>
-<p align="center"><small>Quote updated: 09/01/2026</small></p>
+<p align="center"><i>"The more I spin, the better the build."</i></p>
+<p align="center"><small>Quote updated: 10/01/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
