@@ -86,25 +86,9 @@
 
 ![snake gif](https://github.com/Lakeserl/Lakeserl/blob/output/github-snake-dark.svg)
 
-<br><br><br>
-
-
-<details>!
-<summary>📊 Click for More Stats About Me  </summary>
-
+<br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Lakeserl&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-  
-<div align="center">
-  
-  <h3>⭐ GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakeserl&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <h3>💻 Most Used Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakeserl&layout=compact&theme=tokyonight&hide_border=true" />
-  
-</div>
 
-</details>
 <br><br>
 
 <h1 align="center"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓦𝓪𝓽𝓬𝓱𝓲𝓷𝓰 ~<img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"></h1>
