@@ -97,7 +97,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"The more I spin, the better the build."</i></p>
-<p align="center"><small>Quote updated: 10/01/2026</small></p>
+<p align="center"><i>"My code, like Herta, spins flawlessly."</i></p>
+<p align="center"><small>Quote updated: 11/01/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
