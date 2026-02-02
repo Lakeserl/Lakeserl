@@ -90,7 +90,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Productivity = Spin × Determination."</i></p>
-<p align="center"><small>Quote updated: 01/02/2026</small></p>
+<p align="center"><i>"You say crash, I say spin faster."</i></p>
+<p align="center"><small>Quote updated: 02/02/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
