@@ -90,7 +90,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"My code dances like Herta."</i></p>
-<p align="center"><small>Quote updated: 03/02/2026</small></p>
+<p align="center"><i>"Think twice, spin once."</i></p>
+<p align="center"><small>Quote updated: 04/02/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
