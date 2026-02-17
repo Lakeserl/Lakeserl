@@ -90,7 +90,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Code compiles? Spin to celebrate."</i></p>
-<p align="center"><small>Quote updated: 16/02/2026</small></p>
+<p align="center"><i>"Spin wisely, young dev."</i></p>
+<p align="center"><small>Quote updated: 17/02/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
