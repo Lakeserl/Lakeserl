@@ -90,7 +90,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"I spin, therefore I debug."</i></p>
-<p align="center"><small>Quote updated: 18/02/2026</small></p>
+<p align="center"><i>"Real devs spin while thinking."</i></p>
+<p align="center"><small>Quote updated: 19/02/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
