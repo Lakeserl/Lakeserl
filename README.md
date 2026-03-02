@@ -90,7 +90,7 @@
 <h1 align="center">🌀 Daily Herta Quote</h1>
 
 <!-- HERTA_QUOTE_START -->
-<p align="center"><i>"If code breaks, spin faster."</i></p>
-<p align="center"><small>Quote updated: 01/03/2026</small></p>
+<p align="center"><i>"Merge conflicts? Kuru them."</i></p>
+<p align="center"><small>Quote updated: 02/03/2026</small></p>
 <!-- HERTA_QUOTE_END -->
 
