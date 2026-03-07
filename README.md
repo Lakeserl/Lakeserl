@@ -1,96 +1,109 @@
-<!-- Title -->
-  <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=AA00FF&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Lakeserl+;%E2%9C%A8+The+Herta+Dev+%E2%9C%A8;~+Kuru+Kuru+~" alt="Typing SVG" /></a>
+<div align="center">
 
-</p>
+<img src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/images/nahida-banner.png" width="100%"/>
 
-## Summary <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<br>
 
-<img align="right" width="200" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/sleepy-herta.gif" alt="Herta"  />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&color=82C91E&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Lakeserl+;%E2%9C%A8+Lesser+Lord+of+Code+%E2%9C%A8;~+Dreams+are+bundles+of+wisdom+~" alt="Typing SVG" />
+</a>
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/Developer.gif" width="25" /> &nbsp; Hi, I'm a final-years student passionate about technology and coding.
+</div>
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/puppy.gif" width="30"/>&nbsp; I'd like to take on opportunities, collaborate, and connect with like-minded developers
+---
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/hyperkitty.gif" width="22" />&nbsp;&nbsp; Always turning coffee into code, one "Kuru Kuru~" at a time
+<div align="center">
 
-<img alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/mail.gif" width="19"/>&nbsp;&nbsp; Contract me at : [Gmail](mailto:dinhlam18112003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lâm-vũ-1a8672329/)
+<img src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/nahida-birthday.gif" width="300"/>
 
-> *"Kuru Kuru~ When code works on the first try!"* — Herta Dev Philosophy
+<br>
 
-<br><br>
-
-## My Quirky Dev Side
-
-🌀 I scream "Kuru Kuru~" when my code runs without bugs 
-
-🧠 Debugging while listening to Herta's laugh is scientifically proven to increase brain cells (probably)
-
-💤 Turning coffee into code and dreams into applications, one kuru at a time
-
-<br><br>
-
-## Language & Tools
-
-### Programming Languages
-<p> 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-### Backend & DevOps
-<p> 
-<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> 
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> 
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> 
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
-<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> 
-<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> 
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
-
-### Tools & Others
-<p> 
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> 
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> 
-<img alt="Herta Fan" src="https://img.shields.io/badge/🌀_Herta_Fan-AA00FF?style=for-the-badge" /> 
-</p>
-
-<br><br>
-
-## Herta's Command Center
-
-```markdown
-| Command | Effect | Cooldown |
-|--------|--------|----------|
-| /spin | Makes everything better | 0s |
-| /debug | Laughs until the bug fixes itself | 5s |
-| /nap | Enters maintenance mode | 10m |
-| /focus | Eliminates all distractions | 30s |
-| /kuru | Summons unlimited motivation | 1m |
+```
+┌─────────────────────────────────────────────────────┐
+│  ✦  Lakeserl  ·  Developer  ·  Vietnam 🇻🇳           │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│  Backend-first. Coffee-fueled. Sleep-deprived.      │
+│                                                     │
+│  ⚙  Builds things that (mostly) don't break.        │
+│  🌿  All systems are connected — find the root.     │
+│  ☕  Fuel: coffee. Reserves: critical.              │
+│  🌙  Best ideas at 2AM. Worst deploys too.          │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
-<img width="35%" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/lie-around-herta.gif" alt="Herta"  />
+</div>
 
-<h2>Contributions</h2>
+---
 
-![snake gif](https://github.com/Lakeserl/Lakeserl/blob/output/github-snake-dark.svg)
+<img align="right" width="165" src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/nahida-nerd.gif"/>
 
-<br><br>
-![Profile Views](https://komarev.com/ghpvc/?username=Lakeserl&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+⚙️ &nbsp;**Backend** · FastAPI · Spring Boot &nbsp;*(primary)*
 
-<br><br>
+☁️ &nbsp;**DevOps** · AWS · K8s · Terraform · Docker · CI/CD
 
-<h1 align="center"><img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif">~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓦𝓪𝓽𝓬𝓱𝓲𝓷𝓰 ~<img width="40" alt="GIF" src="https://github.com/Lakeserl/Lakeserl/blob/main/assets/kurukuru-herta.gif"></h1>
+🖥️ &nbsp;**Frontend** · React &nbsp;·&nbsp; **Mobile** · Kotlin
 
-<br><br><br>
-<h1 align="center">🌀 Daily Herta Quote</h1>
+📖 &nbsp;Can read: Rust · Go &nbsp;*(more time on contemplation, less on execution)*
 
-<!-- HERTA_QUOTE_START -->
-<p align="center"><i>"Commit. Push. Spin."</i></p>
-<p align="center"><small>Quote updated: 07/03/2026</small></p>
-<!-- HERTA_QUOTE_END -->
+🌿 &nbsp;Fuel: **Coffee** *(reserves: CRITICAL)*
 
+📡 &nbsp;[Gmail](mailto:dinhlam18112003@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/lâm-vũ-1a8672329/)
+
+<br clear="right"/>
+
+<div align="center">
+
+<!-- leaf divider -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+</div>
+
+<div align="center">
+
+*🌿 Akasha Terminal — activity*
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakeserl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakeserl&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakeserl&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- leaf divider -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/images/nahida-meadow.png" width="85%"/>
+
+<br>
+
+> *"All things are connected through the Irminsul.*
+> *Every line of code, a branch. Every bug, a leaf that was meant to fall."*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Lakeserl&color=82C91E&style=flat-square&label=VISITORS+TO+THE+SANCTUARY)](https://github.com/Lakeserl)
+
+<br>
+
+<!-- NAHIDA_QUOTE_START -->
+*"Dreams are rich bundles of human wisdom."*
+
+<sub>— whispered from the Sanctuary of Surasthana · updated daily</sub>
+<!-- NAHIDA_QUOTE_END -->
+
+```
+  ~ all things are connected ~
+```
+
+</div>
