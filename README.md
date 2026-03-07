@@ -8,32 +8,39 @@
 
 ---
 
+
 <div align="center">
 
-<img src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/nahida-birthday.gif" width="300"/>
+        🌿 Irminsul Developer Archive 🌿
 
-<br>
-
-```
-┌─────────────────────────────────────────────────────┐
-│  ✦  Lakeserl  ·  Developer  ·  Vietnam 🇻🇳           │
-├─────────────────────────────────────────────────────┤
-│                                                     │
-│  Backend-first. Coffee-fueled. Sleep-deprived.      │
-│                                                     │
-│  ⚙  Builds things that (mostly) don't break.        │
-│  🌿  All systems are connected — find the root.     │
-│  ☕  Fuel: coffee. Reserves: critical.              │
-│  🌙  Best ideas at 2AM. Worst deploys too.          │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+    ┌───────────────────────────────────────┐
+    │                                       │
+    │        ✦  Lakeserl · Developer ✦      │
+    │              Vietnam 🇻🇳               │
+    │                                       │
+    │  Backend-first developer exploring    │
+    │  the roots of systems and software.   │
+    │                                       │
+    │  🌿 Every system has a root cause.    │
+    │  ☕ Coffee fuels the investigation.   │
+    │  🌙 Ideas bloom after midnight.       │
+    │                                       │
+    └───────────────────────────────────────┘
 
 </div>
 
----
+<div align="center">
 
-<img align="right" width="165" src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/nahida-nerd.gif"/>
+
+🌿━━━━━━━━━━━━━━━ Branch of Knowledge ━━━━━━━━━━━━━━━🌿
+
+
+</div>
+
+
+### 🌱 Developer Profile
+
+<img align="right" width="170" src="https://github.com/Lakeserl/Lakeserl/raw/main/assets/nahida-nerd.gif"/>
 
 ⚙️ &nbsp;**Backend** · FastAPI · Spring Boot &nbsp;*(primary)*
 
@@ -49,9 +56,7 @@
 
 <br clear="right"/>
 
-<div align="center">
-
-</div>
+---
 
 <div align="center">
 
@@ -64,10 +69,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-</div>
 
 <div align="center">
 
