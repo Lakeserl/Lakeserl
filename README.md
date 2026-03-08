@@ -84,9 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-*"Dreams are rich bundles of human wisdom."*
-
-<sub>— whispered from the Sanctuary of Surasthana · updated daily</sub>
+<p align="center"><i>""Pair program like a duet; two minds make softer music.""</i></p>
+<p align="center"><small>Quote updated: 08/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
