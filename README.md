@@ -52,7 +52,7 @@
 
 🌿 &nbsp;Fuel: **Coffee** *(reserves: CRITICAL)*
 
-📡 &nbsp;[Gmail](mailto:dinhlam18112003@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/lâm-vũ-1a8672329/)
+📡 &nbsp;[Gmail](mailto:dinhlam18112003@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/l%C3%A2m-v%C5%A9-%C4%91%C3%ACnh-bab153378/)
 
 <br clear="right"/>
 
