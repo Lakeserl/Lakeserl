@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Commit small, breathe deep — refactor like a falling leaf.""</i></p>
-<p align="center"><small>Quote updated: 11/03/2026</small></p>
+<p align="center"><i>""Errors are teachers; tests are the syllabus.""</i></p>
+<p align="center"><small>Quote updated: 12/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
