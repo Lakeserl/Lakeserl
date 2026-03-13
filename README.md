@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Errors are teachers; tests are the syllabus.""</i></p>
-<p align="center"><small>Quote updated: 12/03/2026</small></p>
+<p align="center"><i>""Merge conflicts are conversations the repo wants to have — be kind.""</i></p>
+<p align="center"><small>Quote updated: 13/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
