@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Merge conflicts are conversations the repo wants to have — be kind.""</i></p>
-<p align="center"><small>Quote updated: 13/03/2026</small></p>
+<p align="center"><i>""Debugging is the slow art of gentle interrogation.""</i></p>
+<p align="center"><small>Quote updated: 14/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
