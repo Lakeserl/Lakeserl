@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Debugging is the slow art of gentle interrogation.""</i></p>
-<p align="center"><small>Quote updated: 14/03/2026</small></p>
+<p align="center"><i>""Balance curiosity with constraint — both are roots of creativity.""</i></p>
+<p align="center"><small>Quote updated: 15/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
