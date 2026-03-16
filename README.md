@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Balance curiosity with constraint — both are roots of creativity.""</i></p>
-<p align="center"><small>Quote updated: 15/03/2026</small></p>
+<p align="center"><i>""Pair program like a duet; two minds make softer music.""</i></p>
+<p align="center"><small>Quote updated: 16/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
