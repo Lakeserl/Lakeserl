@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Commit small, breathe deep — refactor like a falling leaf.""</i></p>
-<p align="center"><small>Quote updated: 18/03/2026</small></p>
+<p align="center"><i>""Write code as if someone you respect will read it at midnight.""</i></p>
+<p align="center"><small>Quote updated: 19/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
