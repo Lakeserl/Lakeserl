@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Deploy with a ritual: a small breath, a coffee sip, then push.""</i></p>
-<p align="center"><small>Quote updated: 21/03/2026</small></p>
+<p align="center"><i>""Write a test, then sleep; dreams often solve what daylight couldn't.""</i></p>
+<p align="center"><small>Quote updated: 22/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
