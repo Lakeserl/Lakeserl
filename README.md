@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Errors are teachers; tests are the syllabus.""</i></p>
-<p align="center"><small>Quote updated: 27/03/2026</small></p>
+<p align="center"><i>""If the feature feels heavy, make it a path of stepping stones.""</i></p>
+<p align="center"><small>Quote updated: 28/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
