@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""When the build breaks, sit with it like a troublesome spirit until it calms.""</i></p>
-<p align="center"><small>Quote updated: 29/03/2026</small></p>
+<p align="center"><i>""Code with humility, ship with courage, and tend your craft like a sanctuary.""</i></p>
+<p align="center"><small>Quote updated: 30/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
