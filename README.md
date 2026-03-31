@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Code with humility, ship with courage, and tend your craft like a sanctuary.""</i></p>
-<p align="center"><small>Quote updated: 30/03/2026</small></p>
+<p align="center"><i>""Errors are teachers; tests are the syllabus.""</i></p>
+<p align="center"><small>Quote updated: 31/03/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
