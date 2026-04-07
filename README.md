@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Optimize for clarity; performance will follow like birds after dawn.""</i></p>
-<p align="center"><small>Quote updated: 06/04/2026</small></p>
+<p align="center"><i>""Code with humility, ship with courage, and tend your craft like a sanctuary.""</i></p>
+<p align="center"><small>Quote updated: 07/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
