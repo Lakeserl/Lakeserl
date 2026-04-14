@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""If tests pass in the morning, celebrate with tea; if not, brew another pot.""</i></p>
-<p align="center"><small>Quote updated: 13/04/2026</small></p>
+<p align="center"><i>""Silence your notifications, amplify your focus.""</i></p>
+<p align="center"><small>Quote updated: 14/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
