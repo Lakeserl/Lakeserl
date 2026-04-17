@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""A good README is hospitality for future you.""</i></p>
-<p align="center"><small>Quote updated: 16/04/2026</small></p>
+<p align="center"><i>""Debugging is the slow art of gentle interrogation.""</i></p>
+<p align="center"><small>Quote updated: 17/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
