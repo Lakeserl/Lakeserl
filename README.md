@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Commit small, breathe deep — refactor like a falling leaf.""</i></p>
-<p align="center"><small>Quote updated: 24/04/2026</small></p>
+<p align="center"><i>""Refactor like a gardener: remove the rot, let the healthy parts breathe.""</i></p>
+<p align="center"><small>Quote updated: 25/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
