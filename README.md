@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Refactor like a gardener: remove the rot, let the healthy parts breathe.""</i></p>
-<p align="center"><small>Quote updated: 25/04/2026</small></p>
+<p align="center"><i>""When the build breaks, sit with it like a troublesome spirit until it calms.""</i></p>
+<p align="center"><small>Quote updated: 26/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
