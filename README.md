@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""When the build breaks, sit with it like a troublesome spirit until it calms.""</i></p>
-<p align="center"><small>Quote updated: 26/04/2026</small></p>
+<p align="center"><i>""Logs are footprints in the snow — follow them to find the truth.""</i></p>
+<p align="center"><small>Quote updated: 27/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
