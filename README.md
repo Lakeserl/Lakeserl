@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Write a test, then sleep; dreams often solve what daylight couldn't.""</i></p>
-<p align="center"><small>Quote updated: 29/04/2026</small></p>
+<p align="center"><i>""Keep your TODOs like prayer notes — clear them when they stop being helpful.""</i></p>
+<p align="center"><small>Quote updated: 30/04/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
