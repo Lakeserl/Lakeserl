@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Merge conflicts are conversations the repo wants to have — be kind.""</i></p>
-<p align="center"><small>Quote updated: 01/05/2026</small></p>
+<p align="center"><i>""Ship curiosity, not anxiety.""</i></p>
+<p align="center"><small>Quote updated: 02/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
