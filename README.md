@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""When the build breaks, sit with it like a troublesome spirit until it calms.""</i></p>
-<p align="center"><small>Quote updated: 04/05/2026</small></p>
+<p align="center"><i>""Every timeout is an invitation to rethink the approach, not to panic.""</i></p>
+<p align="center"><small>Quote updated: 05/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
