@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Silence your notifications, amplify your focus.""</i></p>
-<p align="center"><small>Quote updated: 08/05/2026</small></p>
+<p align="center"><i>""Every timeout is an invitation to rethink the approach, not to panic.""</i></p>
+<p align="center"><small>Quote updated: 09/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
