@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Documentation is a lantern hung on the path you once walked.""</i></p>
-<p align="center"><small>Quote updated: 11/05/2026</small></p>
+<p align="center"><i>""When in doubt, open the logs and listen to what the code whispers.""</i></p>
+<p align="center"><small>Quote updated: 12/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
