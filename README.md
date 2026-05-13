@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""When in doubt, open the logs and listen to what the code whispers.""</i></p>
-<p align="center"><small>Quote updated: 12/05/2026</small></p>
+<p align="center"><i>""Keep the stack simple; complexity hides like roots under moss.""</i></p>
+<p align="center"><small>Quote updated: 13/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
