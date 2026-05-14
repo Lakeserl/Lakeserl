@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Keep the stack simple; complexity hides like roots under moss.""</i></p>
-<p align="center"><small>Quote updated: 13/05/2026</small></p>
+<p align="center"><i>""One small commit can steady a thousand late-night thoughts.""</i></p>
+<p align="center"><small>Quote updated: 14/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
