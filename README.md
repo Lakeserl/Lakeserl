@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Code that delights is code that was written with patience.""</i></p>
-<p align="center"><small>Quote updated: 15/05/2026</small></p>
+<p align="center"><i>""Ship curiosity, not anxiety.""</i></p>
+<p align="center"><small>Quote updated: 16/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
