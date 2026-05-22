@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""If tests pass in the morning, celebrate with tea; if not, brew another pot.""</i></p>
-<p align="center"><small>Quote updated: 21/05/2026</small></p>
+<p align="center"><i>""Merge conflicts are conversations the repo wants to have — be kind.""</i></p>
+<p align="center"><small>Quote updated: 22/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
