@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Optimize for clarity; performance will follow like birds after dawn.""</i></p>
-<p align="center"><small>Quote updated: 28/05/2026</small></p>
+<p align="center"><i>""If your brain is spinning, let it — sometimes ideas need rotation.""</i></p>
+<p align="center"><small>Quote updated: 29/05/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
