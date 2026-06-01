@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""One small commit can steady a thousand late-night thoughts.""</i></p>
-<p align="center"><small>Quote updated: 31/05/2026</small></p>
+<p align="center"><i>""Code with humility, ship with courage, and tend your craft like a sanctuary.""</i></p>
+<p align="center"><small>Quote updated: 01/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
