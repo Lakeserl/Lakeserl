@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Every timeout is an invitation to rethink the approach, not to panic.""</i></p>
-<p align="center"><small>Quote updated: 04/06/2026</small></p>
+<p align="center"><i>""Write code as if someone you respect will read it at midnight.""</i></p>
+<p align="center"><small>Quote updated: 05/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
