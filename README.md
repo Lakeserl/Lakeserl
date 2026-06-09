@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Keep your TODOs like prayer notes — clear them when they stop being helpful.""</i></p>
-<p align="center"><small>Quote updated: 08/06/2026</small></p>
+<p align="center"><i>""Optimize for clarity; performance will follow like birds after dawn.""</i></p>
+<p align="center"><small>Quote updated: 09/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
