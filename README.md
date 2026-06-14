@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Logs are footprints in the snow — follow them to find the truth.""</i></p>
-<p align="center"><small>Quote updated: 13/06/2026</small></p>
+<p align="center"><i>""Commit small, breathe deep — refactor like a falling leaf.""</i></p>
+<p align="center"><small>Quote updated: 14/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
