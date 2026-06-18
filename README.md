@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Code with humility, ship with courage, and tend your craft like a sanctuary.""</i></p>
-<p align="center"><small>Quote updated: 17/06/2026</small></p>
+<p align="center"><i>""Silence your notifications, amplify your focus.""</i></p>
+<p align="center"><small>Quote updated: 18/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
