@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Pair program like a duet; two minds make softer music.""</i></p>
-<p align="center"><small>Quote updated: 25/06/2026</small></p>
+<p align="center"><i>""A bug is just a lesson disguised as an error.""</i></p>
+<p align="center"><small>Quote updated: 26/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
