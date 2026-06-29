@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Write a test, then sleep; dreams often solve what daylight couldn't.""</i></p>
-<p align="center"><small>Quote updated: 28/06/2026</small></p>
+<p align="center"><i>""Code is a garden: prune the weeds, water the roots, enjoy the blossoms.""</i></p>
+<p align="center"><small>Quote updated: 29/06/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
