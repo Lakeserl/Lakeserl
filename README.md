@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Code is a garden: prune the weeds, water the roots, enjoy the blossoms.""</i></p>
-<p align="center"><small>Quote updated: 06/07/2026</small></p>
+<p align="center"><i>""Debugging is the slow art of gentle interrogation.""</i></p>
+<p align="center"><small>Quote updated: 07/07/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
