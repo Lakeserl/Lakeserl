@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""If the feature feels heavy, make it a path of stepping stones.""</i></p>
-<p align="center"><small>Quote updated: 08/07/2026</small></p>
+<p align="center"><i>""Keep the stack simple; complexity hides like roots under moss.""</i></p>
+<p align="center"><small>Quote updated: 09/07/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
