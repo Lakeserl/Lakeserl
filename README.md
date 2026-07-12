@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Write a test, then sleep; dreams often solve what daylight couldn't.""</i></p>
-<p align="center"><small>Quote updated: 11/07/2026</small></p>
+<p align="center"><i>""If tests pass in the morning, celebrate with tea; if not, brew another pot.""</i></p>
+<p align="center"><small>Quote updated: 12/07/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
