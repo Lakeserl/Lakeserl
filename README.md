@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""Logs are footprints in the snow — follow them to find the truth.""</i></p>
-<p align="center"><small>Quote updated: 19/07/2026</small></p>
+<p align="center"><i>""Errors are teachers; tests are the syllabus.""</i></p>
+<p align="center"><small>Quote updated: 20/07/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
