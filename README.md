@@ -84,8 +84,8 @@
 <br>
 
 <!-- NAHIDA_QUOTE_START -->
-<p align="center"><i>""You can't force inspiration — but you can make a calm place for it to grow.""</i></p>
-<p align="center"><small>Quote updated: 27/07/2026</small></p>
+<p align="center"><i>""Code is a garden: prune the weeds, water the roots, enjoy the blossoms.""</i></p>
+<p align="center"><small>Quote updated: 28/07/2026</small></p>
 <!-- NAHIDA_QUOTE_END -->
 
 ```
